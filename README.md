@@ -5,6 +5,9 @@ Resume Parser using Python NLP
   - suitable job roles
   - recommended skills
   - recommended courses
-# Admin side displays records of all resumesand pie chart metrics to analyze types ofresumes in system
+# Admin side 
+  - displays records of all resumes
+  - pie chart metrics to analyze types ofresumes in system
 
-# Tech used: Python NLP, Streamlit, NLTK,spaCy, MS Excel
+# Tech used 
+  - Python NLP, Streamlit, NLTK,spaCy, MS Excel
