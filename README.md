@@ -10,4 +10,4 @@ Resume Parser using Python NLP
   - pie chart metrics to analyze types ofresumes in system
 
 # Tech used 
-  - Python NLP, Streamlit, NLTK,spaCy, MS Excel
+  - Python NLP, Streamlit, NLTK,spaCy
