@@ -1,4 +1,4 @@
-# Resume Analyser
+# Resume Analyzer
 Resume Parser using Python NLP
 
 # PDF files uploaded are parsed and it displays:
